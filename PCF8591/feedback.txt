@@ -1,0 +1,20 @@
+/***************************************************************************//**
+ * @file    feedback.txt
+ * @author  <Onur Altinordu>
+ * @email   <onur.altinordu@mars.uni-freiburg.de>
+ * @matno   <5250773>
+ * @exno    <Exercise 2>
+ * @date    <25.05.2022>
+ *
+ * @brief   A feedback for exercise sheet 2.
+ ******************************************************************************/
+ 
+ I know I have to name the project without brackets but I need to put brackets
+ in order to distinguish it from the projects I did in the Microcontroller
+ Techniques Lab course (They are in the same folder on my PC). I hope the naming
+ convention I use (with brackets) doesn't cause any problems on your side. If it
+ does, I will try to find another solution.
+ 
+ Everything except the bonus question works without any problems. I will also
+ implement the bonus part and update my submission if I can find some time later
+ on.
