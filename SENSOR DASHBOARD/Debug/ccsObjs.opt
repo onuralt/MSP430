@@ -1,0 +1,1 @@
+"./main.obj" "./libs/LCD.obj" "./libs/UART.obj" "./libs/USCIAB0.obj" "./libs/actuatorMain.obj" "./libs/adac.obj" "./libs/flash.obj" "./libs/i2c.obj" "./libs/joy.obj" "./libs/mma.obj" "./libs/sensorMain.obj" "./libs/spi.obj" "./libs/usonic.obj" "../lnk_msp430g2553.cmd" -llibc.a 
